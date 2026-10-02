@@ -1,6 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:070B14,35:0F172A,70:1E3A8A,100:312E81&height=240&section=header&text=ABHISHEK&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%2F%20ML%20%E2%80%A2%20GENAI%20%E2%80%A2%20PYTHON%20%E2%80%A2%20BACKEND&descSize=17&descAlignY=58&animation=fadeIn" width="100%"/>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td bgcolor="#EAF4FF" align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:070B14,35:0F172A,70:1E3A8A,100:312E81&height=240&section=header&text=ABHISHEK&fontSize=58&fontColor=32D6D9&fontAlignY=38&desc=AI%20%2F%20ML%20%E2%80%A2%20GENAI%20%E2%80%A2%20PYTHON%20%E2%80%A2%20BACKEND&descSize=17&descAlignY=58&animation=fadeIn" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+
 
 <h3>AI/ML Developer · GenAI · Python Backend</h3>
 
